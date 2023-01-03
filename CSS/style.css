@@ -1,0 +1,31 @@
+header{
+    height: 500px;
+    background-image:url('../ecologism.png');
+    background-size:10% ;
+    background-position: right;
+   background-repeat: no-repeat;
+   background-repeat:repeat-y;
+   background-size: cover;
+
+}
+h2{
+    color: brown;
+    text-decoration:line-through;
+}
+.top{
+    
+        color: black;
+        background-color: rgb(255, 225, 0);
+         border-bottom: 10px solid rgb(39, 204, 160); 
+        border-left: 10px solid rgb(39, 204, 160);
+        border-radius: 20px;
+         margin-left:30px;
+        margin-right:30px; 
+         font-size: 20px;
+          padding: 30px
+        }
+
+        .not{
+            color:red;
+            font-size:35px;
+        }
